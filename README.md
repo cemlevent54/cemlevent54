@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋! My name is Cem Levent and I'm a sophomore Computer Engineering student, from Turkey.</h2>
-![](https://komarev.com/ghpvc/?username=cemlevent54&color=green)
+
+###
+
+<img src="https://komarev.com/ghpvc/?username=cemlevent54&&style=plastics&&color=blue" align="center"/> </p>
+
 ###
 
 <div align="center">
