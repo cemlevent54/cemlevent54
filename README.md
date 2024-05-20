@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **cemlevent54/cemlevent54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋! My name is Cem Levent and I'm a sophomore Computer Engineering student, from Turkey.</h2>
-
+![](https://komarev.com/ghpvc/?username=cemlevent54&color=green)
 ###
 
 <div align="center">
