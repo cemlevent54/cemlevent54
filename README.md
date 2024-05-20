@@ -56,9 +56,6 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cemlevent54/cemlevent54/output/snake.svg" alt="Snake animation" />
 
 ###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cemlevent54&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
