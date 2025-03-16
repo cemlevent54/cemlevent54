@@ -83,3 +83,5 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
 </p>
+
+![snake gif](https://github.com/cemlevent54/cemlevent54/blob/output/github-snake-dark.svg)
