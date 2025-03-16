@@ -84,4 +84,4 @@
 
 </p>
 
-![snake gif](https://github.com/cemlevent54/cemlevent54/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/cemlevent54/cemlevent54/blob/output/github-contribution-grid-snake.gif)
