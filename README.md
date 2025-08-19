@@ -46,10 +46,7 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
     <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="40" height="40" alt="YouTube" />
   </a>
 
-  <a href="mailto:cemlevent54@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail
-" width="40" height="40" alt="Gmail" />
-  </a>
+  
 </div>
 
 ---
