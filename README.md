@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cem+Levent+Avc%C4%B1;Junior+Computer+Engineering+Student;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cem+Levent+Avc%C4%B1;Computer+Engineering;Full+Stack+Developer;Backend+Developer;Frontend+Developer;Web+Development;Clean+Code;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
 
 <div align="center">
   <a href="https://github.com/cemlevent54" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/leventavci54" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
@@ -47,7 +47,7 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
   </a>
 
   <a href="mailto:cemlevent54@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png
+    <img src="https://skillicons.dev/icons?i=gmail
 " width="40" height="40" alt="Gmail" />
   </a>
 </div>
@@ -348,7 +348,7 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Graphs
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cemlevent54&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="GitHub Activity Graph" />
@@ -356,7 +356,6 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
 
 ---
 
-## 📊 Detailed Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cemlevent54&theme=radical" alt="Profile Details" />
@@ -368,7 +367,6 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
 
 ---
 
-## 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
