@@ -13,6 +13,7 @@
 Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm passionate about software development and constantly focused on learning new technologies.
 
 ### 🎯 Currently Learning
+
 - **Java** - For enterprise applications
 - **C#** - With .NET ecosystem
 - **Laravel** - Modern PHP framework
@@ -20,14 +21,15 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
 - **Next.js** - Modern React framework
 
 ### 💬 Ask Me About
+
 - **C# & .NET** – Backend development, APIs, and clean coding practices.
 
 - **Next.js** – Hands-on experience building fast, SEO-friendly web apps .
 
 - **Full Stack Development** - Comfortable designing, building, and deploying complete applications from frontend to backend.
 
-
 ### 📫 Contact
+
 - 📧 **Email:** cemlevent54@gmail.com
 - 🌐 **Portfolio:** [https://cemleventavci.com.tr/](https://cemleventavci.com.tr/)
 
@@ -46,13 +48,6 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
     <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="40" height="40" alt="YouTube" />
   </a>
 
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemlevent54&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&include_all_commits=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -353,7 +348,6 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
 
 ---
 
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cemlevent54&theme=radical" alt="Profile Details" />
 </div>
@@ -364,13 +358,6 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
 
 ---
 
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-
-
-
-
-
-
