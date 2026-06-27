@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cem+Levent+Avc%C4%B1;Computer+Engineering;Full+Stack+Developer;Backend+Developer;Frontend+Developer;Web+Development;Clean+Code;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Scalable+Backend+Systems;B2B+API+%26+Payment+Integrations;AI-Powered+Automation+%26+RAG;TypeScript+%7C+Node.js+%7C+Python" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,30 +8,93 @@
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm passionate about software development and constantly focused on learning new technologies.
+I'm **Cem Levent Avcı**, a **Full Stack Developer** focused on building scalable backend systems, complex B2B API integrations, and AI-powered automation solutions.
 
-### 🎯 Currently Learning
+My work centers on designing enterprise-grade architectures that solve real operational and integration challenges — from multi-bank payment infrastructures and travel-booking integrations to Kafka-based microservices, route-optimization algorithms, and computer-vision systems.
 
-- **Java** - For enterprise applications
-- **C#** - With .NET ecosystem
-- **Laravel** - Modern PHP framework
-- **Python** - Data science and web development
-- **Next.js** - Modern React framework
+- 🔭 Currently a **Full Stack Developer @ Optade Engineering**
+- ⚙️ Core stack: **TypeScript (Node.js / NestJS)**, **Next.js / React**, **Python (FastAPI)**, **PostgreSQL · MongoDB · Redis · Docker**
+- 🤖 Building **AI automations & RAG systems** with OpenAI APIs and prompt engineering
+- 🌐 Portfolio: **[cemleventavci.com.tr](https://cemleventavci.com.tr/)**
+- 📫 Reach me: **cemlevent54@gmail.com**
 
-### 💬 Ask Me About
+---
 
-- **C# & .NET** – Backend development, APIs, and clean coding practices.
+## 💡 What I Build
 
-- **Next.js** – Hands-on experience building fast, SEO-friendly web apps .
+- **Scalable backend architecture** — high-performance, modular services with NestJS, Node.js, FastAPI & Laravel
+- **B2B API & payment integrations** — multi-bank Virtual POS, 3D Secure, Stripe Connect, REST & SOAP services
+- **Microservices & event-driven systems** — Kafka, gRPC, queue-based processing (Redis/BullMQ), CQRS
+- **Travel & booking systems** — flight / hotel / tour integrations (real-time search, reservation, ticketing)
+- **AI, CV & automation** — RAG pipelines, OpenAI integrations, and computer-vision systems (PyTorch, OpenCV)
+- **Full-stack web apps** — fast, SEO-friendly interfaces with Next.js, React & TypeScript
 
-- **Full Stack Development** - Comfortable designing, building, and deploying complete applications from frontend to backend.
+---
 
-### 📫 Contact
+## 🚀 Featured Projects
 
-- 📧 **Email:** cemlevent54@gmail.com
-- 🌐 **Portfolio:** [https://cemleventavci.com.tr/](https://cemleventavci.com.tr/)
+| Project | Description | Tech |
+|---|---|---|
+| **Travel & Booking Platform** | A travel-agency storefront that aggregates 5 supplier APIs into one catalog (Adapter/Strategy patterns), processes 3D Secure payments across multiple banks, and runs the whole business through a 20+ module admin panel — with ~70% faster load via caching. | Laravel · PHP · MySQL · Alpine.js · Docker |
+| **[Support Mate](https://github.com/cemlevent54/support-mate)** | A customer-support & ticketing platform on a microservices architecture — API Gateway, Auth, Ticket & Notification services communicating via Kafka (events) and gRPC (internal calls), with real-time chat over Socket.IO and CQRS-structured domains. | Node.js · FastAPI · Kafka · gRPC · MongoDB · Redis · Docker |
+| **[Visileaf](https://github.com/cemlevent54/visileaf)** | A low-light image-enhancement platform combining classical CV algorithms implemented from scratch (LIME via sparse solvers, Dark Channel Prior, Retinex) with deep-learning models (Zero-DCE, MIRNetv2, EnlightenGAN) — all comparable side by side. | Python · FastAPI · PyTorch · OpenCV · React |
+| **[Gesture-Controlled 3D Earth](https://github.com/yusufbockunn/Hand-Gesture-for-Digital-Twin-Navigation)** | Touchless human–computer interaction: navigate a full-scale, photorealistic 3D Earth using only webcam hand gestures — no mouse, no controller, no VR — as a hands-free interface for digital-twin and GIS navigation. | Python · MediaPipe · Unity · Cesium · UDP |
+
+🔎 **See more of my work →** [cemleventavci.com.tr/en/portfolio](https://cemleventavci.com.tr/en/portfolio)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php" height="48" alt="TypeScript, JavaScript, Python, PHP" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,fastapi,laravel" height="48" alt="NestJS, Node.js, Express, FastAPI, Laravel" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,tailwind,html,css" height="48" alt="Next.js, React, Vue, Nuxt, Tailwind, HTML5, CSS3" />
+</p>
+
+### Databases & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,supabase,docker,git,linux,postman" height="48" alt="PostgreSQL, MongoDB, Redis, MySQL, SQLite, Supabase, Docker, Git, Linux, Postman" />
+</p>
+
+### Messaging, Cloud & Payments
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
+</p>
+
+### AI, CV & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,unity" height="48" alt="PyTorch, TensorFlow, OpenCV, Unity" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Cesium-48A9DC?style=for-the-badge&logo=cesium&logoColor=white" alt="Cesium" />
+  <img src="https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering" />
+</p>
+
+### Also worked with
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,c,kotlin" height="48" alt="C#, .NET, Java, C++, C, Kotlin" />
+</p>
 
 ---
 
@@ -41,323 +104,25 @@ Hello! I'm **Cem Levent Avcı**, a Computer Engineering student from Turkey. I'm
   <a href="https://github.com/cemlevent54" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/leventavci54" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/channel/UC3uu9U7pvP5E6-AG9xmLCZg" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="40" height="40" alt="YouTube" />
+  &nbsp;
+  <a href="https://cemleventavci.com.tr/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="Portfolio" />
   </a>
-
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-  </tr>
-</table>
-
-### 🚀 Frontend Frameworks
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      </a>
-      <br>React.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
-      </a>
-      <br>Nuxt.js
-    </td>
-  </tr>
-</table>
-
-### 🔧 Backend Frameworks
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      </a>
-      <br>.NET
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      </a>
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-      </a>
-      <br>Express.js
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend & Styling
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
-
-### 🗄️ Databases
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      </a>
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      </a>
-      <br>Supabase
-    </td>
-  </tr>
-</table>
-
-### 📱 Mobile Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" />
-      </a>
-      <br>Android
-    </td>
-  </tr>
-</table>
-
-### ⚡ Tools & Platforms
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="Qt" />
-      </a>
-      <br>Qt
-    </td>
-  </tr>
-</table>
-
-### 🤖 AI & Deep Learning
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      </a>
-      <br>PyTorch
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Graphs
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cemlevent54&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="GitHub Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cemlevent54&theme=radical" alt="Profile Details" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cemlevent54&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemlevent54&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8&include_all_commits=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemlevent54&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8&exclude_repo=cemlevent54&include_all_commits=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cemlevent54&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" />
 </div>
